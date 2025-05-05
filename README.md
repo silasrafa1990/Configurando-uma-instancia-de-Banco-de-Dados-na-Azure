@@ -2,7 +2,7 @@ A nuvem Microsoft Azure oferece diversas soluções para armazenar e gerenciar d
 
 Tipos de Serviço na Nuvem: IaaS, PaaS e SaaS
 1. IaaS (Infraestrutura como Serviço)
-Controle total da infraestrutura (sistema operacional, banco, backups).
+Controle total da infraestrutura (sistema operacional, banco, backups)
 
 Você precisa instalar, configurar e manter o banco manualmente.
 
